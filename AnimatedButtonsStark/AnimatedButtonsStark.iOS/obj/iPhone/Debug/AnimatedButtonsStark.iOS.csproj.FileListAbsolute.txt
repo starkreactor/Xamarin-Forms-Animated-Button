@@ -1,0 +1,17 @@
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\AnimatedButtonsStarkiOS.exe
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\AnimatedButtonsStarkiOS.pdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\AnimatedButtonsStark.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\AnimatedButtonsStark.pdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\optimized\
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\AnimatedButtonsStark.iOS.csprojResolveAssemblyReference.cache
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\AnimatedButtonsStarkiOS.exe
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\AnimatedButtonsStarkiOS.pdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\obj\iPhone\Debug\AnimatedButtonsStarkiOS.exe.mdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark.iOS\bin\iPhone\Debug\AnimatedButtonsStarkiOS.exe.mdb

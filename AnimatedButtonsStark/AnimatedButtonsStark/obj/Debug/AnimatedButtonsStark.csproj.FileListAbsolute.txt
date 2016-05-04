@@ -1,0 +1,13 @@
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\AnimatedButtonsStark.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\AnimatedButtonsStark.pdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\Xamarin.Forms.Core.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\Xamarin.Forms.Platform.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\Xamarin.Forms.Core.xml
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\obj\Debug\AnimatedButtonsStark.ButtonsPage.xaml.g.cs
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\obj\Debug\AnimatedButtonsStark.dll
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\obj\Debug\AnimatedButtonsStark.pdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\obj\Debug\AnimatedButtonsStark.csprojResolveAssemblyReference.cache
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\obj\Debug\AnimatedButtonsStark.dll.mdb
+C:\1MWStark\POC\AnimatedButtonsStark\AnimatedButtonsStark\AnimatedButtonsStark\bin\Debug\AnimatedButtonsStark.dll.mdb
